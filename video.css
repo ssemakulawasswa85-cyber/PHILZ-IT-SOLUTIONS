@@ -1,0 +1,22 @@
+
+ .searchbox
+            {
+                padding-left: 2%;
+                color: red;
+                padding-right: 5px;
+                width: 300px;
+                text-align: left;
+                height:50px;
+                border-radius: 30px;
+                
+                
+            }
+.welcome
+            {
+                color: blue;
+                font-family: 'Times New Roman', Times, serif;
+                font-size: 72px;
+                text-align: center;
+                stroke: black;
+                stroke-width: 10px;
+            }
